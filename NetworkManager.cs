@@ -1,4 +1,7 @@
-public void NetworkManager
+public class NetworkManager
 {
-    Debug.Log("네트워크 매니저");
+  public void NM()
+  {
+    System.Console.WriteLine("네트워크 매니저");
+  }
 }
